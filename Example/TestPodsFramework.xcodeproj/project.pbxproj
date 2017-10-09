@@ -15,7 +15,18 @@
 		607FACE01AFB9204008FA782 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 607FACDE1AFB9204008FA782 /* LaunchScreen.xib */; };
 		607FACEC1AFB9204008FA782 /* Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607FACEB1AFB9204008FA782 /* Tests.swift */; };
 		B2A4BEC6BA707923555FD588 /* Pods_TestPodsFramework_Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EBB4FDBC358CFD073A6ADD5D /* Pods_TestPodsFramework_Tests.framework */; };
+		DD2F1A451F8C07A5001AFE87 /* ColorFromHex.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD2F1A3B1F8C07A5001AFE87 /* ColorFromHex.swift */; };
+		DD2F1A461F8C07A5001AFE87 /* CreateImgFromColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD2F1A3C1F8C07A5001AFE87 /* CreateImgFromColor.swift */; };
+		DD2F1A471F8C07A5001AFE87 /* MyAutoHeightTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD2F1A3D1F8C07A5001AFE87 /* MyAutoHeightTableViewController.swift */; };
+		DD2F1A481F8C07A5001AFE87 /* MyPager.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD2F1A3E1F8C07A5001AFE87 /* MyPager.swift */; };
+		DD2F1A491F8C07A5001AFE87 /* MyPagerCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = DD2F1A3F1F8C07A5001AFE87 /* MyPagerCell.xib */; };
+		DD2F1A4A1F8C07A5001AFE87 /* MyPicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD2F1A401F8C07A5001AFE87 /* MyPicker.swift */; };
+		DD2F1A4B1F8C07A5001AFE87 /* MyTableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD2F1A411F8C07A5001AFE87 /* MyTableView.swift */; };
+		DD2F1A4C1F8C07A5001AFE87 /* MyTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD2F1A421F8C07A5001AFE87 /* MyTableViewController.swift */; };
+		DD2F1A4D1F8C07A5001AFE87 /* Toast.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD2F1A431F8C07A5001AFE87 /* Toast.swift */; };
+		DD2F1A4E1F8C07A5001AFE87 /* Toast.xib in Resources */ = {isa = PBXBuildFile; fileRef = DD2F1A441F8C07A5001AFE87 /* Toast.xib */; };
 		DD404B291F8BFBCD00566ACC /* TestClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD404B281F8BFBCD00566ACC /* TestClass.swift */; };
+		DD404B2B1F8C02BC00566ACC /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DD404B2A1F8C02BC00566ACC /* UIKit.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,7 +58,18 @@
 		7BC22BA68BBCEDF1893BC362 /* Pods-TestPodsFramework_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TestPodsFramework_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-TestPodsFramework_Tests/Pods-TestPodsFramework_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		991305C6D0A3D969052A6282 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		CB36FFE779904057C46D56E4 /* Pods-TestPodsFramework_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TestPodsFramework_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-TestPodsFramework_Tests/Pods-TestPodsFramework_Tests.release.xcconfig"; sourceTree = "<group>"; };
+		DD2F1A3B1F8C07A5001AFE87 /* ColorFromHex.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ColorFromHex.swift; sourceTree = "<group>"; };
+		DD2F1A3C1F8C07A5001AFE87 /* CreateImgFromColor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CreateImgFromColor.swift; sourceTree = "<group>"; };
+		DD2F1A3D1F8C07A5001AFE87 /* MyAutoHeightTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyAutoHeightTableViewController.swift; sourceTree = "<group>"; };
+		DD2F1A3E1F8C07A5001AFE87 /* MyPager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyPager.swift; sourceTree = "<group>"; };
+		DD2F1A3F1F8C07A5001AFE87 /* MyPagerCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MyPagerCell.xib; sourceTree = "<group>"; };
+		DD2F1A401F8C07A5001AFE87 /* MyPicker.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyPicker.swift; sourceTree = "<group>"; };
+		DD2F1A411F8C07A5001AFE87 /* MyTableView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyTableView.swift; sourceTree = "<group>"; };
+		DD2F1A421F8C07A5001AFE87 /* MyTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyTableViewController.swift; sourceTree = "<group>"; };
+		DD2F1A431F8C07A5001AFE87 /* Toast.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Toast.swift; sourceTree = "<group>"; };
+		DD2F1A441F8C07A5001AFE87 /* Toast.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = Toast.xib; sourceTree = "<group>"; };
 		DD404B281F8BFBCD00566ACC /* TestClass.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TestClass.swift; sourceTree = "<group>"; };
+		DD404B2A1F8C02BC00566ACC /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		EBB4FDBC358CFD073A6ADD5D /* Pods_TestPodsFramework_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TestPodsFramework_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -56,6 +78,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DD404B2B1F8C02BC00566ACC /* UIKit.framework in Frameworks */,
 				52FF8638482493CE7BA355DA /* Pods_TestPodsFramework_Example.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -74,6 +97,7 @@
 		607FACC71AFB9204008FA782 = {
 			isa = PBXGroup;
 			children = (
+				DD2F1A3A1F8C07A5001AFE87 /* utils */,
 				DD404B271F8BFBA300566ACC /* Classes */,
 				607FACF51AFB993E008FA782 /* Podspec Metadata */,
 				607FACD21AFB9204008FA782 /* Example for TestPodsFramework */,
@@ -156,10 +180,28 @@
 		D55BC11D9C0529DC49DE70E2 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				DD404B2A1F8C02BC00566ACC /* UIKit.framework */,
 				1C3745B037D23EFE9C519349 /* Pods_TestPodsFramework_Example.framework */,
 				EBB4FDBC358CFD073A6ADD5D /* Pods_TestPodsFramework_Tests.framework */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		DD2F1A3A1F8C07A5001AFE87 /* utils */ = {
+			isa = PBXGroup;
+			children = (
+				DD2F1A3B1F8C07A5001AFE87 /* ColorFromHex.swift */,
+				DD2F1A3C1F8C07A5001AFE87 /* CreateImgFromColor.swift */,
+				DD2F1A3D1F8C07A5001AFE87 /* MyAutoHeightTableViewController.swift */,
+				DD2F1A3E1F8C07A5001AFE87 /* MyPager.swift */,
+				DD2F1A3F1F8C07A5001AFE87 /* MyPagerCell.xib */,
+				DD2F1A401F8C07A5001AFE87 /* MyPicker.swift */,
+				DD2F1A411F8C07A5001AFE87 /* MyTableView.swift */,
+				DD2F1A421F8C07A5001AFE87 /* MyTableViewController.swift */,
+				DD2F1A431F8C07A5001AFE87 /* Toast.swift */,
+				DD2F1A441F8C07A5001AFE87 /* Toast.xib */,
+			);
+			path = utils;
 			sourceTree = "<group>";
 		};
 		DD404B271F8BFBA300566ACC /* Classes */ = {
@@ -227,7 +269,7 @@
 					607FACCF1AFB9204008FA782 = {
 						CreatedOnToolsVersion = 6.3.1;
 						DevelopmentTeam = R82G6E6AE8;
-						LastSwiftMigration = 0900;
+						LastSwiftMigration = 0830;
 					};
 					607FACE41AFB9204008FA782 = {
 						CreatedOnToolsVersion = 6.3.1;
@@ -261,6 +303,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				607FACDB1AFB9204008FA782 /* Main.storyboard in Resources */,
+				DD2F1A491F8C07A5001AFE87 /* MyPagerCell.xib in Resources */,
+				DD2F1A4E1F8C07A5001AFE87 /* Toast.xib in Resources */,
 				607FACE01AFB9204008FA782 /* LaunchScreen.xib in Resources */,
 				607FACDD1AFB9204008FA782 /* Images.xcassets in Resources */,
 			);
@@ -392,7 +436,15 @@
 			buildActionMask = 2147483647;
 			files = (
 				607FACD81AFB9204008FA782 /* ViewController.swift in Sources */,
+				DD2F1A481F8C07A5001AFE87 /* MyPager.swift in Sources */,
+				DD2F1A471F8C07A5001AFE87 /* MyAutoHeightTableViewController.swift in Sources */,
+				DD2F1A4C1F8C07A5001AFE87 /* MyTableViewController.swift in Sources */,
+				DD2F1A451F8C07A5001AFE87 /* ColorFromHex.swift in Sources */,
 				DD404B291F8BFBCD00566ACC /* TestClass.swift in Sources */,
+				DD2F1A4A1F8C07A5001AFE87 /* MyPicker.swift in Sources */,
+				DD2F1A4B1F8C07A5001AFE87 /* MyTableView.swift in Sources */,
+				DD2F1A4D1F8C07A5001AFE87 /* Toast.swift in Sources */,
+				DD2F1A461F8C07A5001AFE87 /* CreateImgFromColor.swift in Sources */,
 				607FACD61AFB9204008FA782 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -546,7 +598,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.demo.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
 		};
@@ -562,7 +614,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.demo.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
 		};
@@ -583,7 +635,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
 		};
@@ -600,7 +652,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
 		};
