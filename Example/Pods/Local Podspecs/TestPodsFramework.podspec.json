@@ -1,0 +1,22 @@
+{
+  "name": "TestPodsFramework",
+  "version": "0.1.0",
+  "summary": "A short description of TestPodsFramework.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/boois@qq.com/TestPodsFramework",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "boois@qq.com": "boois@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/boois@qq.com/TestPodsFramework.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TestPodsFramework/Classes/**/*"
+}
